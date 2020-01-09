@@ -49,8 +49,6 @@ Table below contains all types of the props in ListItem component.
 
 - You can color your icon if you pass some value into `color` or `customColor` prop of the [Icon](./Icon). Be aware of using other components, because they are not styled by default.
 
-
-
 <LinkList type="" spacing="loose">
   <LinkListItem>
     <TextLink> ... </TextLink>
@@ -75,4 +73,3 @@ Table below contains all types of the props in ListItem component.
     <ButtonLink type="primary" transparent> ... </ButtonLink>
   </LinkStack>
 </NavigationBar>
-
